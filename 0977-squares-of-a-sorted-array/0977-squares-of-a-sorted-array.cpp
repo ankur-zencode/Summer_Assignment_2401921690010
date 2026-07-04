@@ -10,12 +10,12 @@ public:
 
         while(left<=right){
             if(abs(nums[left])> abs(nums[right])){
-                ans[k]=nums[left]*nums[left];
+                ans[k]=pow(nums[left],2);
                 left++;
             }
 
             else{
-                ans[k]=nums[right]*nums[right];
+                ans[k]=pow(nums[right],2);
                 right--;
             }
             k--;
