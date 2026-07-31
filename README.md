@@ -31,6 +31,7 @@ dsa+oops problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -39,6 +40,7 @@ dsa+oops problem
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -47,5 +49,6 @@ dsa+oops problem
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
