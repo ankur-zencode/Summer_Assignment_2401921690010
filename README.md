@@ -33,6 +33,7 @@ dsa+oops problem
 | [0014-longest-common-prefix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -42,6 +43,7 @@ dsa+oops problem
 | ------- |
 | [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -51,4 +53,8 @@ dsa+oops problem
 | ------- |
 | [0383-ransom-note](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
