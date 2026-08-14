@@ -1,7 +1,7 @@
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int val;
+ *     int valhead
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
@@ -10,21 +10,17 @@
  */
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
-        int count=0;
-        ListNode* temp=head;
-
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
-        }
-
-        int indexOfmiddle=count/2;
-        ListNode* temp1=head;
-
-        for(int i=0;i<indexOfmiddle;i++){
-            temp1=temp1->next;
-            }
-        return temp1;
+    ListNode* middleNode(ListNode* head) {          //tortoise-hare problem(optimized)
+        ListNode* fast=head;
+        ListNode* slow=head; 
+        
+        while(fast!=NULL && fast->next!=NULL) {
+            slow=slow->next;
+            fast=fast->next->next;
+        } 
+        
+        return slow;                                               //
+         
+        
     }
 };
