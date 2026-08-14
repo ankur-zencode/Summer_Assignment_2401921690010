@@ -15,6 +15,7 @@ dsa+oops problem
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -66,4 +67,8 @@ dsa+oops problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
