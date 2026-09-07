@@ -7,6 +7,7 @@ dsa+oops problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0566-reshape-the-matrix) |
@@ -14,6 +15,7 @@ dsa+oops problem
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0977-squares-of-a-sorted-array) |
