@@ -6,6 +6,7 @@ dsa+oops problem
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0053-maximum-subarray) |
@@ -15,6 +16,7 @@ dsa+oops problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0876-middle-of-the-linked-list) |
@@ -73,4 +75,8 @@ dsa+oops problem
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
