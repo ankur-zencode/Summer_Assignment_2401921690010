@@ -12,6 +12,7 @@ dsa+oops problem
 | [0053-maximum-subarray](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@ dsa+oops problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
