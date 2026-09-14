@@ -9,6 +9,7 @@ dsa+oops problem
 | [0011-container-with-most-water](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0566-reshape-the-matrix) |
@@ -83,5 +84,6 @@ dsa+oops problem
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
