@@ -86,4 +86,12 @@ dsa+oops problem
 | ------- |
 | [0035-search-insert-position](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ankur-zencode/Summer_Assignment_2401921690010/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
